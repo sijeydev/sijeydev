@@ -13,6 +13,7 @@
 - _CSS_ (начинаю) 
 
 📦 **Мои проекты:**
+
 [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/user/sijeydev/)
 
 📊 **Моя статистика:**  
