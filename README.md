@@ -6,12 +6,14 @@
 - ✅ Пишу только понятный код
 
 💻 **Знаю языки программирования:**
-- Python (+- Middle) 
-- JavaScript (основы)
-- SQLITE (основы) 
-- HTML5 (начинаю)
-- CSS (начинаю) 
+- _Python_ (+- Middle) 
+- _JavaScript_ (основы)
+- _SQLITE_ (основы) 
+- _HTML5_ (начинаю)
+- _CSS_ (начинаю) 
 
+📦 **Мои проекты:**
+[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/user/sijeydev/)
 
 📊 **Моя статистика:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sijeydev&show_icons=true&theme=radical)  
