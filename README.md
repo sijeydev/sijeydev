@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Си Джей! 👋  
 
-<!--
-**sijeydev/sijeydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Обо мне:**  
+- 🛠 Работаю над крутыми проектами  
+- 🔦 Изучаю новые технологии  
+- ✅ Стараюсь писать понятный код
 
-Here are some ideas to get you started:
+📊 **Моя статистика:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sijeydev&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Как связаться:**  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/sijeydev)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sijeydev@gmail.com)
