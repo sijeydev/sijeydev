@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I+will+be+back...)](https://git.io/typing-svg)
-
 <img align="right" src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif?cid=790b7611k7l58vkfzu0h5p0j37bw1w05ubp6m8qxf6k1wl40&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I+will+be+back...)](https://git.io/typing-svg)
 
 # Ку всем, я Си Джей! 👋  
 
