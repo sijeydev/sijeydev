@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Too+Big+To+Fail...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Too+Big+To+Fail+.+.+.)](https://git.io/typing-svg)
 
 # Ку всем, я Си Джей! 👋  
 
