@@ -17,7 +17,7 @@
 [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/user/sijeydev/)
 
 📊 **Моя статистика:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sijeydev&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sijeydev&theme=radical)  
 
 📫 **Как связаться:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/sijeydev) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sijeydev@gmail.com)
